@@ -1,2 +1,6 @@
 # Pacman
 This is our classic game Pacman recreated in python just for fun....
+
+To play just use arrow keys and rest of the rules you know...
+
+Have fun!!!!!!!!!!!!!!!!!
